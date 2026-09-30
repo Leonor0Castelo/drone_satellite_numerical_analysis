@@ -106,8 +106,4 @@ pergunta_2_3.m         Perturbation study
 report/                Project report (PDF, in Portuguese)
 ```
 
-## Authors
 
-Catarina Andrade, Guilherme Barrela, Leonor Castelo, Vasco Marques.
-
-[Optional: one line on your own contribution.]
